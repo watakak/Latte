@@ -25,7 +25,7 @@ Latte is a hybrid programming language based on Python, designed to make Java pr
        - plugin.yml
 6. Let's start coding! Here's a sample Latte code:
 
-```latte
+```python
 nickname = player.name
 
 on starting():
