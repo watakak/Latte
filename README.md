@@ -13,6 +13,7 @@ Introducing Latte - the solution to this problem. Latte is a hybrid programming 
    - Project Name: "HelloPlayer"
    - Author: "watakak"
    - Version of Plugin: 1.0
+   - Version of Minecraft: 1.16.5
    - Description: "Greets the player upon entering the server. Also contains two commands."
 5. All set! Now your project structure will look something like this:
    - LatteProjects
